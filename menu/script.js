@@ -63,7 +63,7 @@ function _0x1ebb() {
         'addEventListener',
         '1338304TdLMnl',
         'remove',
-        'onlinegamesb.xyz',
+        'onlinegamesbd.xyz',
         'log',
         'click',
         '5820864YMxjeT',
