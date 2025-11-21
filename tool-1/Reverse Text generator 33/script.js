@@ -85,9 +85,9 @@ textInput[_0x30ac97(0x17d)](_0x30ac97(0x1ab), updateOutput), copyBtn[_0x30ac97(0
     }, 0x64);
 }), textInput[_0x30ac97(0x1a0)](_0x30ac97(0x19d), 'Text\x20input\x20for\x20reversal'), reversedText[_0x30ac97(0x1a0)](_0x30ac97(0x16b), 'polite'), reversedText[_0x30ac97(0x1a0)]('tabindex', '0'), reversedText[_0x30ac97(0x1a0)](_0x30ac97(0x1aa), _0x30ac97(0x176)), reversedText[_0x30ac97(0x1a0)](_0x30ac97(0x19d), 'Reversed\x20text\x20output');
 const allowedDomains = [
-        'www.onlinegamesb.xyz',
+        'www.onlinegamesbd.xyz',
         'localhost',
-        'onlinegamesb.xyz'
+        'onlinegamesbd.xyz'
     ], currentHost = window[_0x30ac97(0x19f)][_0x30ac97(0x17b)];
 if (!allowedDomains[_0x30ac97(0x198)](currentHost)) {
     document[_0x30ac97(0x1ac)][_0x30ac97(0x19c)] = _0x30ac97(0x1a8);
