@@ -232,9 +232,9 @@ inputEl[_0x2f41c4(0x1cb)](_0x2f41c4(0x1b4), () => updateCount(inputEl, 'char-cou
     }), inputEl['focus']();
 }();
 const allowedDomains = [
-        'www.onlinegamesb.xyz',
+        'www.onlinegamesbd.xyz',
         'localhost',
-        'onlinegamesb.xyz'
+        'onlinegamesbd.xyz'
     ], currentHost = window[_0x2f41c4(0x1b5)][_0x2f41c4(0x1af)];
 if (!allowedDomains['includes'](currentHost)) {
     document[_0x2f41c4(0x19c)][_0x2f41c4(0x1b1)] = _0x2f41c4(0x1e7);
