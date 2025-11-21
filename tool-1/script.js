@@ -45,7 +45,7 @@ function _0x38c7() {
         'match',
         'top',
         'setAttribute',
-        'www.onlinegamesb.xyz',
+        'www.onlinegamesbd.xyz',
         '\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20',
         'active',
         'left',
@@ -288,7 +288,7 @@ observer[_0x224d6c(0x1d0)](loading), window[_0x224d6c(0x1fe)](_0x224d6c(0x1b0), 
 const allowedDomains = [
         _0x224d6c(0x1c0),
         _0x224d6c(0x1ae),
-        'onlinegamesb.xyz'
+        'onlinegamesbd.xyz'
     ], currentHost = window['location'][_0x224d6c(0x213)];
 if (!allowedDomains[_0x224d6c(0x1da)](currentHost)) {
     document['body'][_0x224d6c(0x1cd)] = _0x224d6c(0x1b9);
