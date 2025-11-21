@@ -160,7 +160,7 @@ function _0x50e4() {
         'currentIndex',
         'HTML\x20snippet\x20copied\x20to\x20clipboard!',
         'start',
-        'onlinegamesb.xyz',
+        'onlinegamesbd.xyz',
         'typewriterText',
         '22AnYpPR',
         'addEventListener',
@@ -196,7 +196,7 @@ function _0x50e4() {
         'classList',
         'loop',
         '\x27,\x0a\x20\x20loop:\x20',
-        'www.onlinegamesb.xyz',
+        'www.onlinegamesbd.xyz',
         'localhost'
     ];
     _0x50e4 = function () {
