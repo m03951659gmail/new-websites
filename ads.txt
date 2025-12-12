@@ -1,3 +1,6 @@
+
+#Ads.txt onlinegamesbd.xyz
+
 google.com, pub-1824145279222004, DIRECT, f08c47fec0942fa0
 
 #GameMonetize.com
