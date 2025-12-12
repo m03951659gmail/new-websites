@@ -1,5 +1,7 @@
 
 #Ads.txt onlinegamesbd.xyz
+# 11201
+google.com, pub-1824145279222004, DIRECT, f08c47fec0942fa0
 
 google.com, pub-1824145279222004, DIRECT, f08c47fec0942fa0
 
