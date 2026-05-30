@@ -1,5 +1,13 @@
+server {
+   location ~ /ads.txt {
+       return 301 https://srv.adstxtmanager.com/81386/onlinegamesbd.xyz;
+   }
+}
+
+
 #Ads.txt onlinegamesbd.xyz
 
 # 35
 google.com, pub-6644558441501035, DIRECT, f08c47fec0942fa0
 google.com, pub-1175987143200523, RESELLER, f08c47fec0942fa0
+
